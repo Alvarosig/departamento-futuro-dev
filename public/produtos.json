@@ -1,0 +1,18 @@
+[
+	{ "codigo": 1001, "descricao": "Televisão 32 polegadas", "marca": "ACME", "preco": 998.00, "imagem": "https://images.pexels.com/photos/6976094/pexels-photo-6976094.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1002, "descricao": "Tablet", "marca": "ACME", "preco": 815.00, "imagem": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1003, "descricao": "Aparelho Celular", "marca": "ACME", "preco": 777.70, "imagem": "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1004, "descricao": "Mesa", "marca": "Lannister", "preco": 557.70, "imagem": "https://images.pexels.com/photos/1008692/pexels-photo-1008692.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1005, "descricao": "Caderno", "marca": "Escriba", "preco": 20.00, "imagem": "https://images.pexels.com/photos/544115/pexels-photo-544115.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1006, "descricao": "Caneta Azul", "marca": "Escriba", "preco": 2.00, "imagem": "https://images.pexels.com/photos/5264514/pexels-photo-5264514.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1007, "descricao": "Lápis Preto", "marca": "Escriba", "preco": 1.50, "imagem": "https://images.pexels.com/photos/4219133/pexels-photo-4219133.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1008, "descricao": "Borracha", "marca": "Escriba", "preco": 0.80, "imagem": "https://images.pexels.com/photos/35202/eraser-office-supplies-office-office-accessories.jpg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1009, "descricao": "Grampeador", "marca": "Escriba", "preco": 12.35, "imagem": "https://images.pexels.com/photos/7578202/pexels-photo-7578202.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1010, "descricao": "Camiseta Preta", "marca": "Horizon", "preco": 59.90, "imagem": "https://images.pexels.com/photos/5701499/pexels-photo-5701499.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1011, "descricao": "Camiseta Branca", "marca": "Horizon", "preco": 59.90, "imagem": "https://images.pexels.com/photos/2698918/pexels-photo-2698918.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1012, "descricao": "Geladeira", "marca": "ACME", "preco": 1032.00, "imagem": "https://images.pexels.com/photos/4068316/pexels-photo-4068316.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1013, "descricao": "Fogão", "marca": "ACME", "preco": 504.00, "imagem": "https://images.pexels.com/photos/4099350/pexels-photo-4099350.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1014, "descricao": "Copo de Vidro", "marca": "Glass", "preco": 12.00, "imagem": "https://images.pexels.com/photos/16841304/pexels-photo-16841304/free-photo-of-bebida-gelada.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1015, "descricao": "Ampulheta", "marca": "Hour", "preco": 55.00, "imagem": "https://images.pexels.com/photos/39396/hourglass-time-hours-sand-39396.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" },
+	{ "codigo": 1016, "descricao": "Travesseiro", "marca": "Nuvem", "preco": 23.00, "imagem": "https://images.pexels.com/photos/788587/pexels-photo-788587.jpeg?auto=compress&cs=tinysrgb&w=100&h=200&dpr=1" }
+]

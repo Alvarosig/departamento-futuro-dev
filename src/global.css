@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  letter-spacing: 4px;
+  font-weight: bold;
+}
+
+/* Form */ 
+
+.rounded-input input[type="text"] {
+  border-radius: 8px;
+}
+
+.rounded-input input[type="text"]:focus, .rounded-input input[type="number"]:focus {
+  font-weight: bold;
+}
+
+.rounded-input input[type="number"] {
+  border-radius: 8px;
+}
+
+button, th {
+  font-weight: bold;
+}
